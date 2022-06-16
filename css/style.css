@@ -1,0 +1,59 @@
+.main-contents{
+    position: relative;
+}
+.main-title{
+    position: absolute;
+    top: 285px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 320px;
+    text-align: center;
+}
+img.title{
+    padding-bottom: 15px;
+}
+.call-btn{
+    position: absolute;
+    top: 500px;
+    right: 0;
+}
+.scroll-btn img{
+    position: absolute;
+    top: 650px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.menu-box div{
+    position: absolute;
+    cursor: pointer;
+}
+.btn1{
+    width: 220px;
+    height: 270px;
+    top: 847px;
+    left: 36px;
+}
+.btn2{
+    width: 220px;
+    height: 270px;
+    top: 847px;
+    right: 36px;
+}
+.btn3{
+    width: 470px;
+    height: 110px;
+    top: 1141px;
+    left: 36px;
+}
+.btn4{
+    width: 220px;
+    height: 110px;
+    top: 1261px;
+    left: 36px;
+}
+.btn5{
+    width: 220px;
+    height: 110px;
+    top: 1261px;
+    right: 36px;
+}
